@@ -1,3 +1,5 @@
+[ **English** ] | [ [Português](README.pt-BR.md) ]
+
 # 🎮 Game Store – Python MVC Application
 
 This project is an **electronic game store** fully built in **Python**, using **Streamlit** as the graphical user interface.
