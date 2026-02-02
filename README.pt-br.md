@@ -1,3 +1,5 @@
+
+
 # 🎮 Game Store – Aplicação Python com MVC
 
 Este projeto é uma **loja de jogos eletrônicos** desenvolvida inteiramente em **Python**, utilizando a biblioteca **Streamlit** como interface gráfica.
@@ -50,8 +52,6 @@ Essa separação melhora a manutenção, legibilidade e escalabilidade do sistem
 - **Python 3**
 - **Streamlit** (Interface Gráfica)
 - **JSON** (Persistência de Dados)
-- Programação Orientada a Objetos (POO)
-- Arquitetura MVC
 
 ---
 
