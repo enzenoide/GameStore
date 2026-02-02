@@ -1,4 +1,4 @@
-
+[ [English](README.md) ] | [ **Português** ]
 
 # 🎮 Game Store – Aplicação Python com MVC
 
