@@ -50,8 +50,6 @@ This separation improves maintainability, readability, and scalability.
 - **Python 3**
 - **Streamlit** (GUI)
 - **JSON** (data persistence)
-- Object-Oriented Programming (OOP)
-- MVC architectural pattern
 
 ---
 
